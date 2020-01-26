@@ -15,7 +15,7 @@ public class MainActivity extends ReactActivity {
   protected String getMainComponentName() {
     return "gobarberReactNative";
   }
-}
+
 
   @Override
   protected ReactActivityDelegate createReactActivityDelegate() {
@@ -26,3 +26,4 @@ public class MainActivity extends ReactActivity {
       }
     };
   }
+}
